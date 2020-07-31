@@ -119,6 +119,10 @@ justify-self: end;
     justify-self: center;
   }
 
+  h1{
+    font-size: 2rem;
+  }
+
   .box1{
     grid-column: 1 / 2;
     grid-row: 2 / 4;
